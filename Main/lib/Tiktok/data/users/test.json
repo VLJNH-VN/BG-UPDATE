@@ -1,0 +1,836 @@
+{
+  "verification_uid": "test",
+  "tiktok_username": "@wife.meoz",
+  "tiktok_uid": "7056003731792626715",
+  "nickname": "bà xã meo meo",
+  "follower_count": 35277,
+  "following_count": 9,
+  "video_count": 39,
+  "heart_count": 756037,
+  "avatar": "",
+  "verified": false,
+  "videos": [
+    {
+      "stt": 1,
+      "video_id": "7514844473361321223",
+      "title": "thuc giac dau con a ben e nua #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7514844473361321223",
+      "direct_video_url": "https://v45.tiktokcdn.com/a4167d17094990648f33991c4b93680f/684ba84f/video/tos/alisg/tos-alisg-pve-0037c001/okB9XFVmBQEiqZKoWkvFFIABEEa1BzixgAd5Y/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=824&bt=412&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=O2U0aDU5NDU0NzdpZDxoPEBpam1wO2s5cjg0NDMzODczNEAvYDE2X2BfXl8xMF9iMDBjYSNwaTRnMmRrYjJhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "thuc giac dau con a ben e nua #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4AxIigpqEY9BFBAXVYaKmEACcdoBF5zxIiv0~tplv-tiktokx-origin.image?dr=1364&refresh_token=3fdf7f46&x-expires=1749787200&x-signature=oYdzBsGV0AqLo%2F3BErnnzq40C90%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/9f4e62f598df467b1796f4525adb3eed/684ba851/video/tos/alisg/tos-alisg-pve-0037c001/o4I5KvOEYoCE9xFmVAgiqiL9zQBaMEA9B8XyF/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=544&bt=272&cs=2&ds=3&ft=I3ElTAjqM9RSxRD0JN3JThFJYl97bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=14&rc=aGQ0ZzpnN2VmNmVlaTVnPEBpam1wO2s5cjg0NDMzODczNEBhL19jMC5eNS8xXl4uLV4yYSNwaTRnMmRrYjJhLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204252584A246676B6905900912&btag=e000b8000",
+            "data_size": 969679,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/7ba3bbf107927ed48a17284d6659614d/684ba851/video/tos/alisg/tos-alisg-pve-0037c001/okB9XFVmBQEiqZKoWkvFFIABEEa1BzixgAd5Y/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=824&bt=412&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYl97bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=O2U0aDU5NDU0NzdpZDxoPEBpam1wO2s5cjg0NDMzODczNEAvYDE2X2BfXl8xMF9iMDBjYSNwaTRnMmRrYjJhLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204252584A246676B6905900912&btag=e000b8000",
+            "data_size": 1465524,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7513063628086479633.mp3",
+            "duration": 27,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQABFAIYVEmia0FBXYFl9x5QIv6EKAqpzgcoi~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=e3cc9d6b&x-expires=1749787200&x-signature=0gTqM3%2FWHTTBIu3Szx4GTo1RqUU%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 27,
+      "play_count": 4779,
+      "digg_count": 756,
+      "comment_count": 3,
+      "share_count": 51,
+      "create_time": 1749686085
+    },
+    {
+      "stt": 2,
+      "video_id": "7513930766812859666",
+      "title": "an toi ch 😋  #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7513930766812859666",
+      "direct_video_url": "https://v45.tiktokcdn.com/c67babf007823b24e7b9fb5b0974b9ea/684ba841/video/tos/alisg/tos-alisg-pve-0037c001/osGBa7AtiAX9bK8EBYataS2iIQcBETwwPVEDE/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1318&bt=659&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=OzQ5NGQzaGlpOGg0Zzc4OUBpM2w1NXY5cnVnNDMzODczNEAtMzYwMDI1Ni0xXzIyNmA1YSNhbmpsMmQ0YzBhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "an toi ch 😋  #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAZBEBABawiAcI8KE7Aa76dSaGIPtYXDb2iVw~tplv-tiktokx-origin.image?dr=1364&refresh_token=d7c6ff69&x-expires=1749787200&x-signature=rONWdI2HCapqDsDFRIRraQ4HFco%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/6b6ab0a11353ca8855308863bc68dbdb/684ba844/video/tos/alisg/tos-alisg-pve-0037c001/ocAZNFasfjgaDsBzjfVCaxI5AoEuDSCIkQehQ0/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1000&bt=500&cs=2&ds=3&ft=EKpu4dZzI02R12NvGtRxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=14&rc=NWg3ZTU0aDlmOTo7NmVmOkBpM2w1NXY5cnVnNDMzODczNEAwY15jX182XzUxMzUxXjQtYSNhbmpsMmQ0YzBhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042525E0F4C135BA33E2726E3A&btag=e000b0000",
+            "data_size": 845330,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/ac20f281cdd5bc0bad7c45d2804bc5a2/684ba844/video/tos/alisg/tos-alisg-pve-0037c001/osGBa7AtiAX9bK8EBYataS2iIQcBETwwPVEDE/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1318&bt=659&cs=0&ds=6&ft=EKpu4dZzI02R12NvGtRxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=0&rc=OzQ5NGQzaGlpOGg0Zzc4OUBpM2w1NXY5cnVnNDMzODczNEAtMzYwMDI1Ni0xXzIyNmA1YSNhbmpsMmQ0YzBhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042525E0F4C135BA33E2726E3A&btag=e000b0000",
+            "data_size": 1113111,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7459739779819703057.mp3",
+            "duration": 14,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o8oiAVIS8uBtX2YAAEE47KpDPwuwbOwBaGaEi~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=8ea8e8fc&x-expires=1749787200&x-signature=TTNR2qqGkn8bg3rYiCFa0XWRXys%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 13,
+      "play_count": 10471,
+      "digg_count": 2838,
+      "comment_count": 10,
+      "share_count": 8,
+      "create_time": 1749473340
+    },
+    {
+      "stt": 3,
+      "video_id": "7513414357703871762",
+      "title": "thế có yêu k #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7513414357703871762",
+      "direct_video_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7511247837708045057.mp3",
+      "download_urls": {
+        "has_download": true,
+        "title": "thế có yêu k #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/d5dad4e865564700a18c89aa9b5ac58f~tplv-photomode-image-cover:640:0:q72.heic?dr=17580&refresh_token=5c61a348&x-expires=1750996800&x-signature=ojJTvkX48bgugpG8H4FCaJWrX9M%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&biz_tag=tt_photomode&sc=cover",
+        "medias": [
+          {
+            "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/d5dad4e865564700a18c89aa9b5ac58f~tplv-photomode-image-new-lqen:q80.heic?dr=10825&refresh_token=51dd934a&x-expires=1750996800&x-signature=crNqRkQluLoIecjwDCdnWjM9YSk%3D&t=5897f7ec&ps=28cf8ac7&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&biz_tag=tt_photomode&sc=image",
+            "quality": "1170x2080p",
+            "extension": "jpg",
+            "type": "image"
+          },
+          {
+            "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/74d8e16407494bebb4df995a4a69d22f~tplv-photomode-image-new-lqen:q80.heic?dr=10825&refresh_token=eaa464eb&x-expires=1750996800&x-signature=5uKO2D0ocotDd4FuZn4zjIEWdfU%3D&t=5897f7ec&ps=28cf8ac7&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&sc=image&biz_tag=tt_photomode",
+            "quality": "1170x2080p",
+            "extension": "jpg",
+            "type": "image"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7511247837708045057.mp3",
+            "duration": 14,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-i-photomode-sg/d5dad4e865564700a18c89aa9b5ac58f~tplv-photomode-image-cover:480:0:q70.webp?dr=14555&from=photomode.PUBLISH&ftpl=1&idc=maliva&ps=13740610&refresh_token=33a70b28&s=PUBLISH&shcp=34ff8df6&shp=d05b14bd&t=4d5b0474&x-expires=1750996800&x-signature=LCkXXRSTQeb3EmbXc4JKdIW%2FWVk%3D",
+      "duration": 0,
+      "play_count": 180932,
+      "digg_count": 25904,
+      "comment_count": 127,
+      "share_count": 2936,
+      "create_time": 1749353106
+    },
+    {
+      "stt": 4,
+      "video_id": "7513208159037656338",
+      "title": "spam #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7513208159037656338",
+      "direct_video_url": "https://v45.tiktokcdn.com/5035b9edcd67721f4338a59fcd23132f/684ba83f/video/tos/alisg/tos-alisg-pve-0037c001/oMzADtAWET6VoyxvEEiYNkIJ4ERGiBaARA8pB/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1260&bt=630&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=Mzs0ZDQ4ZjQ1N2k7ZWdoPEBpajtqM2w5cnI3NDMzODczNEAtLTMyLy0vX2ExLl5hXi4uYSNqNDFxMmRrYS9hLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "spam #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oMlefADRajSBhFRIo0RibBUEgQ8IBBYQ73lEEH~tplv-tiktokx-origin.image?dr=1364&refresh_token=e3291f0b&x-expires=1749787200&x-signature=2cTnoVQMCxl9gixRBQZ3un1cljo%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/fb7ea61a14325db2da85604ebe26af02/684ba843/video/tos/alisg/tos-alisg-pve-0037c001/oEBtIADWAyEAZWKRhB6uoZAViYavA4YkGiEEE/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=956&bt=478&cs=2&ds=3&ft=EKpu4dZzI02R12NvptRxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=14&rc=ZmZkODk7ZGk4ODlkNzQ5M0BpajtqM2w5cnI3NDMzODczNEAvNF4tNjEwXl4xNi8zXmIvYSNqNDFxMmRrYS9hLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425272CB940A951B1FEB4D16D&btag=e000b0000",
+            "data_size": 677894,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/72d22408239b26aa7bb10fd43a343bcd/684ba843/video/tos/alisg/tos-alisg-pve-0037c001/oMzADtAWET6VoyxvEEiYNkIJ4ERGiBaARA8pB/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1260&bt=630&cs=0&ds=6&ft=EKpu4dZzI02R12NvptRxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=0&rc=Mzs0ZDQ4ZjQ1N2k7ZWdoPEBpajtqM2w5cnI3NDMzODczNEAtLTMyLy0vX2ExLl5hXi4uYSNqNDFxMmRrYS9hLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425272CB940A951B1FEB4D16D&btag=e000b0000",
+            "data_size": 894258,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7493170023059032849.mp3",
+            "duration": 20,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEiUE02RgblRAQIho7QiBVFeEHBIUEfjBRBaDg~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=54e852a6&x-expires=1749787200&x-signature=DZUFcyV%2FxLOmyA60jVH6qdGiQJA%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 11,
+      "play_count": 52173,
+      "digg_count": 10790,
+      "comment_count": 43,
+      "share_count": 581,
+      "create_time": 1749305096
+    },
+    {
+      "stt": 5,
+      "video_id": "7512683268265790727",
+      "title": "cu quen e v di #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7512683268265790727",
+      "direct_video_url": "https://v45.tiktokcdn.com/fd9917b5e1217f1842834d2ee8191885/684ba843/video/tos/alisg/tos-alisg-pve-0037c001/oImoBCZBifbiUpaAkgHIQEwMRlhDBBQyEfIEvU/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1304&bt=652&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=NDg0NmQ1PGg2N2hoaDhlNkBpM2lnO2w5cnk5NDMzODczNEBfNmAxLS40NTExNDY0MjRjYSMvNjVsMmRzZi5hLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "cu quen e v di #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAICIABhRaDQAuBowiB4fvkhElyEfi3gUUmaBJ~tplv-tiktokx-origin.image?dr=1364&refresh_token=959821e2&x-expires=1749787200&x-signature=5189YlQIzAdDpSgMqz1Baiyd7Zw%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&sc=dynamic_cover&biz_tag=tt_video",
+        "medias": [
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/d862b07a8ede90a2df9a3ca4fc8c6a7e/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/oYElGNUBoBqyv5UiirqmkAIwEBDCfQFghREtRf/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=930&bt=465&cs=2&ds=6&ft=EKpu4dZzI02R12NvQtRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=11&rc=NDZpZzM1ZGVnPDdpaWc8N0BpM2lnO2w5cnk5NDMzODczNEAwLWJgM2IyNjMxYjEyNDFhYSMvNjVsMmRzZi5hLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204252750D2AC26909EAF35B54F&btag=e000b8000",
+            "data_size": 896676,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/52724efb86ff7a14026abae79a518569/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/oImoBCZBifbiUpaAkgHIQEwMRlhDBBQyEfIEvU/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1304&bt=652&cs=0&ds=6&ft=EKpu4dZzI02R12NvQtRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=0&rc=NDg0NmQ1PGg2N2hoaDhlNkBpM2lnO2w5cnk5NDMzODczNEBfNmAxLS40NTExNDY0MjRjYSMvNjVsMmRzZi5hLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204252750D2AC26909EAF35B54F&btag=e000b8000",
+            "data_size": 1256447,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v16m.tiktokcdn.com/bc40475500f720c4babede02979f9666/68539155/video/tos/alisg/tos-alisg-v-27dcd7/oIB9AomBRumEU2FJFREAJxCQaagfVseCABQEaD/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=.NpOcInz7Th6R8qKXq8Zmo&mime_type=audio_mpeg&qs=13&rc=amtkeXg5cmU5NDMzODU8NEBpamtkeXg5cmU5NDMzODU8NEBecF81MmQ0Zy5hLS1kMS1zYSNecF81MmQ0Zy5hLS1kMS1zcw%3D%3D&vvpl=1&l=2025061204252750D2AC26909EAF35B54F&btag=e00078000&cc=3&shp=d05b14bd&shcp=-",
+            "duration": 14,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQABAavCtwoIfB53y5BmUIfCUQaRiligdQDEEh~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=220aefdb&x-expires=1749787200&x-signature=0IPgH1QwUiyCSQdcGCiRQxd9FvQ%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 15,
+      "play_count": 31637,
+      "digg_count": 3419,
+      "comment_count": 22,
+      "share_count": 94,
+      "create_time": 1749182885
+    },
+    {
+      "stt": 6,
+      "video_id": "7512313356322213138",
+      "title": "e vui den noi nghen ngao #fybシ #CapCut ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7512313356322213138",
+      "direct_video_url": "https://v45.tiktokcdn.com/02494ce5b171b0209e4d562060fc9376/684ba84c/video/tos/alisg/tos-alisg-pve-0037c001/oY1CEYHc7iJOGQBX5EaPPxUZxEEQBiNI4mABA/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&br=1516&bt=758&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=OWc8OWlpZjppOTk5ZGQ8NkBpamh1bGs5cjprNDMzODczNEAvYF9iNGE2Xy0xMl4uNF9jYSNuZGAzMmQ0Zi1hLS1kMWBzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "e vui den noi nghen ngao #fybシ #CapCut ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oIAAOIExPxHKABiGi4IINBJEYEBaBXZYTmo1q~tplv-tiktokx-origin.image?dr=1364&refresh_token=377b3f86&x-expires=1749787200&x-signature=v5WyFY0inH5SrVGy47ObpHpIpxU%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v45-perf.tiktokcdn.com/ca63c0b303006dac5b8a23ac3a131b28/684ba851/video/tos/alisg/tos-alisg-pve-0037c001/oY1CEYHc7iJOGQBX5EaPPxUZxEEQBiNI4mABA/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&br=1516&bt=758&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlp7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=OWc8OWlpZjppOTk5ZGQ8NkBpamh1bGs5cjprNDMzODczNEAvYF9iNGE2Xy0xMl4uNF9jYSNuZGAzMmQ0Zi1hLS1kMWBzcw%3D%3D&vvpl=1&l=2025061204252836F303B96CB5CA47E350&btag=e000b8000",
+            "data_size": 2372081,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7511244451315026689.mp3",
+            "duration": 24,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEfNfADQqMqBnFRNoadckDcEgQkCBTKQhviREw~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=92031518&x-expires=1749787200&x-signature=MAkUuZhkgcmW99xTyQrrH5epRm4%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 24,
+      "play_count": 35838,
+      "digg_count": 4934,
+      "comment_count": 17,
+      "share_count": 500,
+      "create_time": 1749096759
+    },
+    {
+      "stt": 7,
+      "video_id": "7510637600214961416",
+      "title": "alo de tu ra #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7510637600214961416",
+      "direct_video_url": "https://v45.tiktokcdn.com/0c82d71cafcec0b2a548d9d2a69ba06e/684ba850/video/tos/alisg/tos-alisg-pve-0037c001/os7t5iBRUBoQOYETJgC8AQSuIfsfYgBizjE4yQ/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1662&bt=831&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=ZDxkZmkzZTw3Z2VpNDw0O0BpamY1aXM5cnlsMzMzODczNEAtNC5jYl5jXjMxY2BfYGEuYSNqcTBgMmRzNnFhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "alo de tu ra #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oMY7fsgOfAIEmTQ8ABRo8SBtJiBUiERuYykIa5~tplv-tiktokx-origin.image?dr=1364&refresh_token=5fffd60b&x-expires=1749787200&x-signature=%2BaLLfoe%2FsryajxbfJbeNtNErrB8%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&sc=dynamic_cover&biz_tag=tt_video",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/06ace89a16f666bfc9820481c6d666c5/684ba856/video/tos/alisg/tos-alisg-pve-0037c001/ok7t5iBRUBoYOYETMgC8AG4uIfsfY5BiR7EuyQ/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1574&bt=787&cs=2&ds=4&ft=I3ElTAjqM9RSxRD0JN3JThFJYlZ7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=ZDw7NDY3aWQ8ZGhlaTU0NkBpamY1aXM5cnlsMzMzODczNEBeXi02LWAwNS4xYC8xXy8vYSNqcTBgMmRzNnFhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042529FDC3A7C5B6FE0D941A86&btag=e000b8000",
+            "data_size": 2857918,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/331e7424a2341825df71ebedd6b979d4/684ba856/video/tos/alisg/tos-alisg-pve-0037c001/os7t5iBRUBoQOYETJgC8AQSuIfsfYgBizjE4yQ/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1662&bt=831&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlZ7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=ZDxkZmkzZTw3Z2VpNDw0O0BpamY1aXM5cnlsMzMzODczNEAtNC5jYl5jXjMxY2BfYGEuYSNqcTBgMmRzNnFhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042529FDC3A7C5B6FE0D941A86&btag=e000b8000",
+            "data_size": 3019129,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7507633490435771137.mp3",
+            "duration": 28,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oks7fYTin8RYBIDIuBioAJYBgtUprBDSfyOEu5~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=4c16b89e&x-expires=1749787200&x-signature=qnPkWaO6j5RDn1DxTcFPs6MKMW0%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 28,
+      "play_count": 31033,
+      "digg_count": 3025,
+      "comment_count": 8,
+      "share_count": 287,
+      "create_time": 1748706590
+    },
+    {
+      "stt": 8,
+      "video_id": "7509407191376465160",
+      "title": "màu yêu quá #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7509407191376465160",
+      "direct_video_url": "https://v45.tiktokcdn.com/f478313a39f7c12f0bb2107f9c09a5da/684ba841/video/tos/alisg/tos-alisg-pve-0037c001/oc2ABJyfE2k0iAAzILhsIxjBwi3Cq0QcxkG0Ea/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1668&bt=834&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=ZjY0ZTo1OjU2ZDwzZ2ZmZUBpMzZqcW05cnNmMzMzODczNEAyYWEwLmIuNS8xNTQ2NV8xYSNqZzFsMmRjX29hLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "màu yêu quá #fybシ ",
+        "thumbnail": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owQE2FoisBMHBIDiQfmNfUBgEtx5YNnlT4XARh~tplv-tiktokx-origin.image?dr=1364&refresh_token=e9adf917&x-expires=1749787200&x-signature=2n6iQquM01VfEc5mSvdHbdo9E5U%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&s=AWEME_DETAIL&sc=dynamic_cover&biz_tag=tt_video",
+        "medias": [
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/0ef45c4d4c6fa545538d12609363a2e1/684ba847/video/tos/alisg/tos-alisg-pve-0037c001/oYy1fAEwQTDvvOQbCPLIAvGLIbAjPeqRgFemoY/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1382&bt=691&cs=2&ds=4&ft=EKpu4dZzI0IS12Nv4tRxWIxR7qlsu3_45SY&mime_type=video_mp4&qs=15&rc=ZWlpNTY4M2g4NWhmPDg3O0BpMzZqcW05cnNmMzMzODczNEA0MjUzYzQxNi0xLl4uXy0vYSNqZzFsMmRjX29hLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042529E691488B7BD2030D598F&btag=e000b0000",
+            "data_size": 1222489,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/55196a7b15b79b458a93c5d72bc5c395/684ba847/video/tos/alisg/tos-alisg-pve-0037c001/oc2ABJyfE2k0iAAzILhsIxjBwi3Cq0QcxkG0Ea/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1668&bt=834&cs=0&ds=6&ft=EKpu4dZzI0IS12Nv4tRxWIxR7qlsu3_45SY&mime_type=video_mp4&qs=0&rc=ZjY0ZTo1OjU2ZDwzZ2ZmZUBpMzZqcW05cnNmMzMzODczNEAyYWEwLmIuNS8xNTQ2NV8xYSNqZzFsMmRjX29hLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042529E691488B7BD2030D598F&btag=e000b0000",
+            "data_size": 1475918,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7446358271462165265.mp3",
+            "duration": 13,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4TQgTNQiICjBeoY5FslEXEHtDnDfEAHRCBXJU~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=7a618b28&x-expires=1749787200&x-signature=sAPoiXDE82j2kQdb0QbLIreh%2Bwk%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 13,
+      "play_count": 112619,
+      "digg_count": 21415,
+      "comment_count": 44,
+      "share_count": 1793,
+      "create_time": 1748420118
+    },
+    {
+      "stt": 9,
+      "video_id": "7507300590410829063",
+      "title": "láo #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7507300590410829063",
+      "direct_video_url": "https://v45.tiktokcdn.com/92effbd3eee33df9c551ea8382e57aae/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/oIKwhBUItCi6A6DfCw5vtq0jSYIqFAKGiEjAQY/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1970&bt=985&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=ZjZnOTs3Zjo3OWkzNWc4ZEBpamRoZXM5cjRuMzMzODczNEA0Ll8tLS1fNTQxM18tLTNhYSNqaGBsMmRzaGthLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "láo #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAERC4IvuA4kAtDeCgf8F9AUAoEoiABgB0LoSE~tplv-tiktokx-origin.image?dr=1364&refresh_token=25b6a1f8&x-expires=1749787200&x-signature=VPx61N6TeGWEtW4be6ZovtFxk44%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "medias": [
+          {
+            "url": "https://v3-perf.tiktokcdn.com/580511d332ddc67219099face90b464f/684ba84f/video/tos/alisg/tos-alisg-pve-0037c001/o8CqKTiEIAw0D8FftbiqvmYqtyUjDCAwBA6IQ5/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=2080&bt=1040&cs=2&ds=4&ft=EKpu4dZzI0IS12NvJtRxWIxR7qlsu3_45SY&mime_type=video_mp4&qs=15&rc=O2RpMzU1PDY4O2k3NjQzNEBpamRoZXM5cjRuMzMzODczNEAvXzYxMmIwXjMxY2IxMDI0YSNqaGBsMmRzaGthLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253048EE00271E21CDC658DF&btag=e000b8000",
+            "data_size": 2792233,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v3-perf.tiktokcdn.com/3d4b0f4ada38f248a7a27cc64cdadc93/684ba84f/video/tos/alisg/tos-alisg-pve-0037c001/oIKwhBUItCi6A6DfCw5vtq0jSYIqFAKGiEjAQY/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1970&bt=985&cs=0&ds=6&ft=EKpu4dZzI0IS12NvJtRxWIxR7qlsu3_45SY&mime_type=video_mp4&qs=0&rc=ZjZnOTs3Zjo3OWkzNWc4ZEBpamRoZXM5cjRuMzMzODczNEA0Ll8tLS1fNTQxM18tLTNhYSNqaGBsMmRzaGthLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253048EE00271E21CDC658DF&btag=e000b8000",
+            "data_size": 2644753,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7492436391876446992.mp3",
+            "duration": 21,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAERC4IvuA4kAtDeCgf8F9AUAoEoiABgB0LoSE~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=388b0e5e&x-expires=1749787200&x-signature=KB%2Fh1gwNU4LpC1vTF2%2F%2F%2F5696co%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 20,
+      "play_count": 54237,
+      "digg_count": 4880,
+      "comment_count": 9,
+      "share_count": 148,
+      "create_time": 1747929633
+    },
+    {
+      "stt": 10,
+      "video_id": "7507254351455325447",
+      "title": "drip drip #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7507254351455325447",
+      "direct_video_url": "https://v45.tiktokcdn.com/37ae906d08060da97dcbb95ad251417b/684ba845/video/tos/alisg/tos-alisg-pve-0037c001/o8keeRGffxIxZwARQFk4AtiD3fqAAfeC0gAHAjc/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1498&bt=749&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=Ozw5ZTwzNzhnZDhpaTs3OkBpajp5eXM5cnZrMzMzODczNEAxMTVhXl5jXy8xYi1gYDUvYSNwZGVrMmQ0c2thLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "drip drip #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUBoE4ZugBYACAA826AvPUEAiBCiaIIElY8AN~tplv-tiktokx-origin.image?dr=1364&refresh_token=ca05af2b&x-expires=1749787200&x-signature=iaUhvUIvw96DOqiIFL57R06ehmc%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v16-perf.tiktokcdn.com/a942202815c41d9254812cb7d7be1b42/684ba84c/video/tos/alisg/tos-alisg-pve-0037c001/o0qAeHshAffRHmQgGw5FG4PF5IEdIQLvl4BveG/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1452&bt=726&cs=2&ds=4&ft=I3ElTAjqM9RSxRD0JN3JThFJYlB7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=PGg4PGQ0ZWk4NTkzN2Q3NUBpajp5eXM5cnZrMzMzODczNEA2Ni40MmEwNi8xMTA2Yi8yYSNwZGVrMmQ0c2thLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253050AAAC40975F80EB7B5C&btag=e000b8000",
+            "data_size": 1669757,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v16-perf.tiktokcdn.com/32a534ac0141d948d66961b1ae1683bd/684ba84c/video/tos/alisg/tos-alisg-pve-0037c001/o8keeRGffxIxZwARQFk4AtiD3fqAAfeC0gAHAjc/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1498&bt=749&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlB7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=Ozw5ZTwzNzhnZDhpaTs3OkBpajp5eXM5cnZrMzMzODczNEAxMTVhXl5jXy8xYi1gYDUvYSNwZGVrMmQ0c2thLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253050AAAC40975F80EB7B5C&btag=e000b8000",
+            "data_size": 1723099,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v77.tiktokcdn.com/9264d6a348b0ebce8081c162216de9ba/6853915d/video/tos/alisg/tos-alisg-v-27dcd7/o0iELVMN489XpOBbAwfLiaBoClIhNMccARB0WK/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=124&bt=62&ft=.NpOcInz7ThCR8qKXq8Zmo&mime_type=audio_mpeg&qs=3&rc=OTQ8ZjppOmVmNjk1PDVnNEBpajRnOHI5cmg2MzMzODU8NEA0NTYzYWI1NTIxYTQ0Yi0uYSMya21hMmRjMjJhLS1kMS1zcw%3D%3D&vvpl=1&l=2025061204253050AAAC40975F80EB7B5C&btag=e000b8000&cc=13&shp=d05b14bd&shcp=-",
+            "duration": 17,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUBoE4ZugBYACAA826AvPUEAiBCiaIIElY8AN~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=09b8cf6b&x-expires=1749787200&x-signature=4mzxVmyVWpTSpoMXvmUKGIFVzsg%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 17,
+      "play_count": 32513,
+      "digg_count": 2544,
+      "comment_count": 6,
+      "share_count": 55,
+      "create_time": 1747918866
+    },
+    {
+      "stt": 11,
+      "video_id": "7507046663685541128",
+      "title": "nang gio ben em #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7507046663685541128",
+      "direct_video_url": "https://v45.tiktokcdn.com/37c3a15ea3fcd2a162c3848c6719aeb9/684ba844/video/tos/alisg/tos-alisg-pve-0037c001/oIYTeA82oXIgexjpI5AgQOXQIeDPnQcmMmDMCG/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&br=1842&bt=921&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=aTxoOmRpaDc1ZGdoNjM6ZUBpajYzaXk5cjo5MzMzODczNEAuMTVgNjJgX2AxYC0zNS1fYSNzNGFmMmQ0M2thLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "Media",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oIAFKEXIBzPGzBY2wifyA9AASiDjA0ACY4RIXu~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=031eb4d6&x-expires=1749787200&x-signature=KawzQjdKtvtNWHF59NlxXDzV7oc%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+        "medias": [
+          {
+            "type": "video",
+            "url": "https://www.tiktok.com/@@wife.meoz/video/7507046663685541128",
+            "extension": "mp4"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oIAFKEXIBzPGzBY2wifyA9AASiDjA0ACY4RIXu~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=031eb4d6&x-expires=1749787200&x-signature=KawzQjdKtvtNWHF59NlxXDzV7oc%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 16,
+      "play_count": 69042,
+      "digg_count": 6442,
+      "comment_count": 12,
+      "share_count": 477,
+      "create_time": 1747870512
+    },
+    {
+      "stt": 12,
+      "video_id": "7506910572491869447",
+      "title": "thu em can, la vat chat #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7506910572491869447",
+      "direct_video_url": "https://v45.tiktokcdn.com/3609f7a482fe902f92aff4bccdd18694/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/okEB0FQ8HSuvCA6oiMOAUiPAi4q3tTBILwfiI5/?a=1233&bti=MzU8OGYpNHYpNzo5ZjEuLjpkLTptNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=990&bt=495&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=M2k2PGQ1NmZnPDY8ZWVpOkBpM21kNXY5cnF4MzMzODczNEAvM2MtNGI1XzUxY19eYTQ1YSNxMW5oMmRjYmphLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "thu em can, la vat chat #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oYvCLFAAoii6AAqXS08uISw0OiI8fATBIt52mH~tplv-tiktokx-origin.image?dr=1364&refresh_token=2f685d30&x-expires=1749787200&x-signature=GRz9KY%2FqInREQ9CNnYvYBoZDkgw%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "medias": [
+          {
+            "url": "https://v16-perf.tiktokcdn.com/5a4252d13ece83dc2ab2576a68d3d417/684ba851/video/tos/alisg/tos-alisg-pve-0037c001/o08iSRiOIo8CqOFATuOBfA6IOuAiQLvwB3k0EL/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=942&bt=471&cs=2&ds=4&ft=I3ElTAjqM9RSxRD0JN3JThFJYlu7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=Zzs1ODdnPGU0Z2gzOTU1OEBpM21kNXY5cnF4MzMzODczNEAwLy5iLjVeX2AxNmNgXzRfYSNxMW5oMmRjYmphLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253141434D8D22ECA3DA3E83&btag=e000b8000",
+            "data_size": 1244744,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v16-perf.tiktokcdn.com/05320f5b5368c79662ff94ed238a43c7/684ba851/video/tos/alisg/tos-alisg-pve-0037c001/okEB0FQ8HSuvCA6oiMOAUiPAi4q3tTBILwfiI5/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=990&bt=495&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlu7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=M2k2PGQ1NmZnPDY8ZWVpOkBpM21kNXY5cnF4MzMzODczNEAvM2MtNGI1XzUxY19eYTQ1YSNxMW5oMmRjYmphLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253141434D8D22ECA3DA3E83&btag=e000b8000",
+            "data_size": 1309143,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7506910592939870993.mp3",
+            "duration": 20,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owIIOq0AvPuoku6tBAIiTFiA3sBASwf8i5CIL2~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=ce86fbfe&x-expires=1749787200&x-signature=GEkOXBdlWqYe2CEQtvGCU0hfVZs%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 20,
+      "play_count": 52855,
+      "digg_count": 6775,
+      "comment_count": 7,
+      "share_count": 236,
+      "create_time": 1747838823
+    },
+    {
+      "stt": 13,
+      "video_id": "7506562996961824018",
+      "title": "ố nhạc bựa #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7506562996961824018",
+      "direct_video_url": "https://v45.tiktokcdn.com/a48a72025a54a6e7fc981e70afb4072d/684ba842/video/tos/alisg/tos-alisg-pve-0037c001/o8fSqlHqFAAio8NIQENIwBAM2vWw10zBBCIsiY/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1312&bt=656&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=ZmRnOTk0ODY1ZjpkOmY1aUBpanAzamo5cjZkMzMzODczNEAuMzVfXzMtNTUxLjAwNjRhYSMzb2FrMmRzamphLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "ố nhạc bựa #fybシ ",
+        "thumbnail": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oo1iAsWilkE2FA00ACAIIqoimfAWTmCKABnBw9~tplv-tiktokx-origin.image?dr=1364&refresh_token=d6ff885d&x-expires=1749787200&x-signature=9%2BQuhkBbz1Aby4o64BFOl3UgSl0%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "medias": [
+          {
+            "url": "https://v45-perf.tiktokcdn.com/ba2b9b0a99aad253b81d5a1f6531cc03/684ba84b/video/tos/alisg/tos-alisg-pve-0037c001/o4QAWmBmiS2HF7sLwI3NAANCvwoIEqPfw0lBSi/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1108&bt=554&cs=2&ds=4&ft=EKpu4dZzI02R12Nv8tRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=15&rc=OTw1Zzk8ZWdnPGY0aGQ1ZkBpanAzamo5cjZkMzMzODczNEAtYmFeLy4yX2MxM2FjXmJjYSMzb2FrMmRzamphLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042532164068BC4C2D49D4284E&btag=e000b0000",
+            "data_size": 1002244,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v45-perf.tiktokcdn.com/5cc364e925ec474571d15dca5b07ea2d/684ba84b/video/tos/alisg/tos-alisg-pve-0037c001/o8fSqlHqFAAio8NIQENIwBAM2vWw10zBBCIsiY/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1312&bt=656&cs=0&ds=6&ft=EKpu4dZzI02R12Nv8tRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=0&rc=ZmRnOTk0ODY1ZjpkOmY1aUBpanAzamo5cjZkMzMzODczNEAuMzVfXzMtNTUxLjAwNjRhYSMzb2FrMmRzamphLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042532164068BC4C2D49D4284E&btag=e000b0000",
+            "data_size": 1186542,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7336214015113186050.mp3",
+            "duration": 41,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oo1iAsWilkE2FA00ACAIIqoimfAWTmCKABnBw9~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=6cf76ad5&x-expires=1749787200&x-signature=WajMffwrIVyIL4R2rE99Ckl8KZs%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 14,
+      "play_count": 81822,
+      "digg_count": 9733,
+      "comment_count": 28,
+      "share_count": 897,
+      "create_time": 1747757898
+    },
+    {
+      "stt": 14,
+      "video_id": "7505844895085595912",
+      "title": "nho em - chi co moi em #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7505844895085595912",
+      "direct_video_url": "https://v45.tiktokcdn.com/5de0f007bd3b07937843457c6960132f/684ba841/video/tos/alisg/tos-alisg-pve-0037c001/oYERUpEq9kXfRjDNBgfzFhAUQ1ISjBY4BhKoHE/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1582&bt=791&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=PDQ5Nzc6Omg6NjhlMzxmZUBpamxqaXg5cng0MzMzODczNEAxNTUyYWEtXmExMTU1LTMtYSNtbm5sMmQ0bmlhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "nho em - chi co moi em #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEUQKEeR0IZEEP5BEohgW4DnFvfAACFABQZUAn~tplv-tiktokx-origin.image?dr=1364&refresh_token=e9e7cde6&x-expires=1749787200&x-signature=LuKDhtraMNYWTgg4fhall%2FpDGok%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "medias": [
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/cd0160024bcad437eccb87bce4f03739/684ba84b/video/tos/alisg/tos-alisg-pve-0037c001/owIqEQBxRIUKAJDohFoofSdfz19E4EBgUNhYBU/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=2204&bt=1102&cs=2&ds=4&ft=EKpu4dZzI02R12NvbtRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=15&rc=N2c0Nzk6OzczZDk4ZzRnNkBpamxqaXg5cng0MzMzODczNEBgYmBiLy8yXmMxYjUvMi40YSNtbm5sMmQ0bmlhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425335F2403B2C4EF87E3DA17&btag=e000b0000",
+            "data_size": 1862170,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v15m-perf.tiktokcdn.com/17481d16f802d4864804d7a9221fbb64/684ba84b/video/tos/alisg/tos-alisg-pve-0037c001/oYERUpEq9kXfRjDNBgfzFhAUQ1ISjBY4BhKoHE/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1582&bt=791&cs=0&ds=6&ft=EKpu4dZzI02R12NvbtRxWIxRBdlvu3_45SY&mime_type=video_mp4&qs=0&rc=PDQ5Nzc6Omg6NjhlMzxmZUBpamxqaXg5cng0MzMzODczNEAxNTUyYWEtXmExMTU1LTMtYSNtbm5sMmQ0bmlhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425335F2403B2C4EF87E3DA17&btag=e000b0000",
+            "data_size": 1337109,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7504996662852537106.mp3",
+            "duration": 13,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEUQKEeR0IZEEP5BEohgW4DnFvfAACFABQZUAn~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=67bf2797&x-expires=1749787200&x-signature=bejHxCa%2BizKaZf%2FXRp6nRv9YQRI%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 13,
+      "play_count": 261856,
+      "digg_count": 25969,
+      "comment_count": 92,
+      "share_count": 2985,
+      "create_time": 1747590704
+    },
+    {
+      "stt": 15,
+      "video_id": "7505685637211622663",
+      "title": "lắm trò 😒#fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7505685637211622663",
+      "direct_video_url": "https://v45.tiktokcdn.com/aa5bb7630cdc0216e0f278361a11a8c7/684ba842/video/tos/alisg/tos-alisg-pve-0037c001/oYzpeVgEERDAKU0FY5B0Uoj0vBrBREQVIMVhfO/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1534&bt=767&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=PDg2ZzpkZTtnPDU7NTpoZkBpM2pkeHE5cjdyMzMzODczNEAwMDA2MF4tNWAxNS9fXjU1YSNzYmVuMmRjbmhhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000b5000",
+      "download_urls": {
+        "has_download": true,
+        "title": "lắm trò 😒#fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o8QEToOECBY9ZgR0vVQAxFEB0GDLhKBfrf8RqU~tplv-tiktokx-origin.image?dr=1364&refresh_token=9e2bb1d0&x-expires=1749787200&x-signature=V%2BxX%2F2D1MeIgBKkylmql0D%2BdvaE%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v16-perf.tiktokcdn.com/ee3f679cac47839200eb08f6b5a3cfa3/684ba84c/video/tos/alisg/tos-alisg-pve-0037c001/o0zEBKRUwEAYhB30OCj0pfQRegEvrBDooIVRJF/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1324&bt=662&cs=2&ds=4&ft=I3ElTAjqM9RSxRD0JN3JThFJYlh7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=NmlkOGY3ZTtoOTRoaWU0OUBpM2pkeHE5cjdyMzMzODczNEA2MC0tYC0vNS0xL2EtLi5iYSNzYmVuMmRjbmhhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042533B2B860E8BA219DF1936C&btag=e000b0000",
+            "data_size": 1206673,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v16-perf.tiktokcdn.com/6822a8608c684ac00b09fbb1a33835d5/684ba84c/video/tos/alisg/tos-alisg-pve-0037c001/oYzpeVgEERDAKU0FY5B0Uoj0vBrBREQVIMVhfO/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1534&bt=767&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlh7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=PDg2ZzpkZTtnPDU7NTpoZkBpM2pkeHE5cjdyMzMzODczNEAwMDA2MF4tNWAxNS9fXjU1YSNzYmVuMmRjbmhhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042533B2B860E8BA219DF1936C&btag=e000b0000",
+            "data_size": 1398723,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7503849457566468865.mp3",
+            "duration": 14,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAQTToOENBYotgR0vVQAhFEB0GDGhKDfrf8RqU~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=ab7ef567&x-expires=1749787200&x-signature=WFcA75Y8QHqQ%2B97LkUD9PGY9rEY%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 14,
+      "play_count": 80529,
+      "digg_count": 7142,
+      "comment_count": 16,
+      "share_count": 318,
+      "create_time": 1747553622
+    },
+    {
+      "stt": 16,
+      "video_id": "7505193287796395271",
+      "title": "blè #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7505193287796395271",
+      "direct_video_url": "https://v45.tiktokcdn.com/66d2ca7656a34989bea94d2db679da58/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/oQK0PAZT8UgAXEIohJFfBBgNGme60cQmRCD4EH/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1184&bt=592&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=ZmRoNDM3ZDk7OWRkaTg8NkBpMzZoa3Y5cjR2MzMzODczNEA0Yi0xYTIvXl4xXjIyXzYwYSM0bTY2MmRzbmdhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "blè #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owKDa8BOIijLq6FBezoEnBZBJIzFUs4fgATioR~tplv-tiktokx-origin.image?dr=1364&refresh_token=2c71ad13&x-expires=1749787200&x-signature=TM3K%2BWds7a3svo4LAU4jNeE1RqQ%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v3-perf.tiktokcdn.com/9efbf8dc68193f091e3759f186934119/684ba853/video/tos/alisg/tos-alisg-pve-0037c001/o8zBGaoEnFjBLBLzgDUhefiLiEARIOJ8sOsTGI/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=716&bt=358&cs=2&ds=4&ft=I3ElTAjqM9RSxRD0JN3JThFJYl-7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=OzM3PDZlZTc2PGc1OjNnZEBpMzZoa3Y5cjR2MzMzODczNEBjMGBjNl8vNi8xYGIuXjYtYSM0bTY2MmRzbmdhLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253436691B4B9F928D8A532C&btag=e000b8000",
+            "data_size": 923746,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v3-perf.tiktokcdn.com/62b083be4ca2ac3d45ed0838ecfb9fcb/684ba853/video/tos/alisg/tos-alisg-pve-0037c001/oQK0PAZT8UgAXEIohJFfBBgNGme60cQmRCD4EH/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1184&bt=592&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYl-7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=ZmRoNDM3ZDk7OWRkaTg8NkBpMzZoa3Y5cjR2MzMzODczNEA0Yi0xYTIvXl4xXjIyXzYwYSM0bTY2MmRzbmdhLS1kMTFzcw%3D%3D&vvpl=1&l=2025061204253436691B4B9F928D8A532C&btag=e000b8000",
+            "data_size": 1528133,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v16m.tiktokcdn.com/00b114a50d857d32f9bdfed283a8bff1/68539167/video/tos/alisg/tos-alisg-v-27dcd7/oQEDEckUFPQYeCZeBMGuTQnWgJ9TIiLAAqPouf/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=124&bt=62&ft=.NpOcInz7Th9R8qKXq8Zmo&mime_type=audio_mpeg&qs=3&rc=M2RnNTg1aTZlNzhkNGUzNEBpamx4eWo5cm5xMzMzODU8NEBjYS1hMy81Nl4xMTVhXy8xYSNfZ3A2MmRzNTZhLS1kMS1zcw%3D%3D&vvpl=1&l=2025061204253436691B4B9F928D8A532C&btag=e000b8000&cc=3&shp=d05b14bd&shcp=-",
+            "duration": 20,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oELIgi8ERaLIoAzfn1OJkeZyFjtBEBiDUTmBrs~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=f0c64cf2&x-expires=1749787200&x-signature=HbLX%2Bvt7uQZ4WYy4mrSJNltPsq0%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 20,
+      "play_count": 59528,
+      "digg_count": 4569,
+      "comment_count": 12,
+      "share_count": 102,
+      "create_time": 1747438992
+    },
+    {
+      "stt": 17,
+      "video_id": "7504692707848244498",
+      "title": "sẽ gọi cho a #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7504692707848244498",
+      "direct_video_url": "https://v45.tiktokcdn.com/6284976a0218cc48bfda6e0aee73d115/684ba84f/video/tos/alisg/tos-alisg-pve-0037c001/oU7bemQEgVQlJCloAdgIRBiFLfU1arEQBDIBg8/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=894&bt=447&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=NGdnNDQ8Ojw2ZTk3OTVnN0BpM2xxZnc5cjgzMzMzODczNEAwMmI2NDM2XjMxNjUzLTA2YSNmcDZrMmRjNWdhLS1kMS1zcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "sẽ gọi cho a #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o8AEEAESEFAzVJAgIRyDQFKggwBAZnomYBffCk~tplv-tiktokx-origin.image?dr=1364&refresh_token=abbe2d91&x-expires=1749787200&x-signature=xBvEa%2BPiQMB7dC2yBjJOiCQ5eJU%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&sc=dynamic_cover&biz_tag=tt_video&s=AWEME_DETAIL",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/f21c6d40cfc66d108593c6e1a180fada/684ba85a/video/tos/alisg/tos-alisg-pve-0037c001/oYkQMQQDoB57SleFEBIgSAIdEBbnfJ7giREOQV/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=684&bt=342&cs=2&ds=4&eid=16896&ft=I3ElTAjqM9RSxRD0JN3JThFJYl-7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=OTpoZ2VlOmVnaDZoZjs4OkBpM2xxZnc5cjgzMzMzODczNEA0LzYwNDZeX2MxMTItMC02YSNmcDZrMmRjNWdhLS1kMS1zcw%3D%3D&vvpl=1&l=20250612042534FAE8B7412EE84EFCF066&btag=e000b8000",
+            "data_size": 1183904,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/4480a369630293fac32da2cefdb00adb/684ba85a/video/tos/alisg/tos-alisg-pve-0037c001/oU7bemQEgVQlJCloAdgIRBiFLfU1arEQBDIBg8/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=894&bt=447&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYl-7bGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=NGdnNDQ8Ojw2ZTk3OTVnN0BpM2xxZnc5cjgzMzMzODczNEAwMmI2NDM2XjMxNjUzLTA2YSNmcDZrMmRjNWdhLS1kMS1zcw%3D%3D&vvpl=1&l=20250612042534FAE8B7412EE84EFCF066&btag=e000b8000",
+            "data_size": 1545735,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oUhNeG8QtAJfVlSAgYFfmfKZYcQRXx1oMbixjT",
+            "duration": 27,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o8AEEAESEFAzVJAgIRyDQFKggwBAZnomYBffCk~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=8d2419d2&x-expires=1749787200&x-signature=Of8o%2BbbDCsqk6OxtZ4a5uQmsaqY%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 27,
+      "play_count": 25267,
+      "digg_count": 1515,
+      "comment_count": 8,
+      "share_count": 49,
+      "create_time": 1747322439
+    },
+    {
+      "stt": 18,
+      "video_id": "7503919755225484552",
+      "title": "chua cống #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7503919755225484552",
+      "direct_video_url": "https://v45.tiktokcdn.com/9b15bd002d1fb7bd3b434c6e7e6d0ab7/684ba849/video/tos/alisg/tos-alisg-pve-0037c001/osBuRnDjIh0fcEebGbhVUjHEgs5FQEoWBIgArn/?a=1233&bti=M0BzMzU8OGYpNzo5Zi5wIzEuLjpkNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1794&bt=897&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=aDw2NmU5Z2ZkNGVnODY3NkBpM21wdHY5cjRuMzMzODczNEA1XjIvMV9jXi0xNl9jYWIyYSNvamlqMmRzYmVhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "chua cống #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oYAAMxIQIDAQNfReGjLoGJBfco6kMIAlGEojAc~tplv-tiktokx-origin.image?dr=1364&refresh_token=d857881b&x-expires=1749787200&x-signature=XbYXrz0O6MaOJYthXYojnehlZXo%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v45-perf.tiktokcdn.com/73336df005dcd0b60deb5bb409f551b2/684ba855/video/tos/alisg/tos-alisg-pve-0037c001/ociItnEj8I2qOsBrAwf2itAqQOITJCQDAaE00C/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1726&bt=863&cs=2&ds=4&eid=17152&ft=I3ElTAjqM9RSxRD0JN3JThFJYlbFbGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=Z2Q4ZmY4aDs2N2Y1ZzY4OUBpM21wdHY5cjRuMzMzODczNEBfXi4xYGIzXi8xMjJjM2NiYSNvamlqMmRzYmVhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425355EC753109F641B628DA9&btag=e000b8000",
+            "data_size": 2328851,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v45-perf.tiktokcdn.com/0d020eca1e4c379d7b4f7ac12acb0d76/684ba855/video/tos/alisg/tos-alisg-pve-0037c001/osBuRnDjIh0fcEebGbhVUjHEgs5FQEoWBIgArn/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1794&bt=897&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlbFbGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=aDw2NmU5Z2ZkNGVnODY3NkBpM21wdHY5cjRuMzMzODczNEA1XjIvMV9jXi0xNl9jYWIyYSNvamlqMmRzYmVhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425355EC753109F641B628DA9&btag=e000b8000",
+            "data_size": 2421261,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7500605350271453969.mp3",
+            "duration": 21,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oYAAMxIQIDAQNfReGjLoGJBfco6kMIAlGEojAc~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=9d673899&x-expires=1749787200&x-signature=DzIiVo0ounfh3l3YxX2qWbSP9ag%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 21,
+      "play_count": 38020,
+      "digg_count": 3522,
+      "comment_count": 10,
+      "share_count": 146,
+      "create_time": 1747142471
+    },
+    {
+      "stt": 19,
+      "video_id": "7503192623591476487",
+      "title": "hữu duyên xả ảnh #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7503192623591476487",
+      "direct_video_url": "https://v45.tiktokcdn.com/718404894bd9c2b2f0f6a7e725d18875/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/osoDUbgBtBSILAFRlBeEWgRQCIEngTfoYGsDEJ/?a=1233&bti=MzU8OGYpNHYpNzo5ZjEuLjpkLTptNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1612&bt=806&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=aTg0Zzs6Zmg7OjlkM2Y3aUBpamxpZGw5cmVlMzMzODczNEBeNTVgYDMvXmAxLmNhLWEuYSMxcG5kMmRjMGRhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "hữu duyên xả ảnh #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oItxeE1kQiDFHIPCCKLIANGbIQAjufEggCe5oW~tplv-tiktokx-origin.image?dr=1364&refresh_token=7e476110&x-expires=1749787200&x-signature=iw9LfFYiEvjods%2Fngwv0n0ToaEg%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v53-perf.tiktokcdn.com/8f0fe5d72b5634d1766892d533934e35/684ba854/video/tos/alisg/tos-alisg-pve-0037c001/oEnhGoWBEnALAF8YeQUImgB7ctBIBJDlEEifRS/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1254&bt=627&cs=2&ds=4&eid=16384&ft=EKpu4dZzI02R12NvR~RxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=15&rc=NDw4PDY1NTdnZDc2NTdpZEBpamxpZGw5cmVlMzMzODczNEBeXjM2LWBfNTIxYmBfLS5hYSMxcG5kMmRjMGRhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042535E569F39A9EF92B97F4E9&btag=e000b8000",
+            "data_size": 1678017,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v53-perf.tiktokcdn.com/d56d0fbb608153769b97dbe236d47757/684ba854/video/tos/alisg/tos-alisg-pve-0037c001/osoDUbgBtBSILAFRlBeEWgRQCIEngTfoYGsDEJ/?a=1233&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1612&bt=806&cs=0&ds=6&ft=EKpu4dZzI02R12NvR~RxWIxR1CqH_q_45SY&mime_type=video_mp4&qs=0&rc=aTg0Zzs6Zmg7OjlkM2Y3aUBpamxpZGw5cmVlMzMzODczNEBeNTVgYDMvXmAxLmNhLWEuYSMxcG5kMmRjMGRhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612042535E569F39A9EF92B97F4E9&btag=e000b8000",
+            "data_size": 2156826,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7388406720734694145.mp3",
+            "duration": 20,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQSRlIERnMBysBUfEWGtYOgQDfAqFBEk8B4oLQ~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=b992b60d&x-expires=1749787200&x-signature=MJZV0NtdfJhK6pho%2B2tONILPyFk%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 20,
+      "play_count": 115896,
+      "digg_count": 12510,
+      "comment_count": 31,
+      "share_count": 584,
+      "create_time": 1746973171
+    },
+    {
+      "stt": 20,
+      "video_id": "7502494658224819463",
+      "title": "trông yêu k #fybシ ",
+      "video_url": "https://www.tiktok.com/@@wife.meoz/video/7502494658224819463",
+      "direct_video_url": "https://v45.tiktokcdn.com/a569ecfd4f03538d35899555b4de676f/684ba848/video/tos/alisg/tos-alisg-pve-0037c001/ocDeIoQfICwP7QExzfjNIIyDi2R2GAa4gyADFQ/?a=1233&bti=MzU8OGYpNHYpNzo5ZjEuLjpkLTptNDQwOg%3D%3D&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1242&bt=621&cs=0&ds=6&ft=k_gL-HDeZNoSVQ32GR_fu8_S5oM5S31Tyy67TGbL&mime_type=video_mp4&qs=0&rc=MzwzZDQ2ZjlkZGRnNGZmZUBpamdxcXM5cnE2MzMzODczNEAzX142YS9jXzAxXzUvMTFeYSNhZDBgMmRzYWNhLS1kMTFzcw%3D%3D&vvpl=1&l=20250612122524FC0E40A03338BE012A00&btag=e000bd000",
+      "download_urls": {
+        "has_download": true,
+        "title": "trông yêu k #fybシ ",
+        "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ooQPoQfQD792GCNaAEfyAtBkwFy43QDI0y2jPe~tplv-tiktokx-origin.image?dr=1364&refresh_token=e3a7db8c&x-expires=1749787200&x-signature=K%2F9RdjJaSQnElphppfKFafXOhtw%3D&t=bacd0480&ps=4f5296ae&shp=d05b14bd&shcp=1d1a97fc&idc=my&biz_tag=tt_video&s=AWEME_DETAIL&sc=dynamic_cover",
+        "medias": [
+          {
+            "url": "https://v45-perf.tiktokcdn.com/17a8837f1c13e04c292b8f1d93a2aadb/684ba855/video/tos/alisg/tos-alisg-pve-0037c001/oE7B2Q4yEoCGAFihwgoQEADpefDPC2DyIIEfja/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1218&bt=609&cs=2&ds=4&eid=16384&ft=I3ElTAjqM9RSxRD0JN3JThFJYlmFbGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=15&rc=Nmc2OzM3MzlmOGQ2OjNmZEBpamdxcXM5cnE2MzMzODczNEBiYy0yYTRfNWAxLTExLmNfYSNhZDBgMmRzYWNhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425367F2C38B490578068ADDC&btag=e000b8000",
+            "data_size": 1609987,
+            "quality": "hd_no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v45-perf.tiktokcdn.com/ce96efc5436121ae1faf0e8ea2c11f39/684ba855/video/tos/alisg/tos-alisg-pve-0037c001/ocDeIoQfICwP7QExzfjNIIyDi2R2GAa4gyADFQ/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=13&dr=0&er=0&lr=all&net=0&cd=0%7C0%7C0%7C&cv=1&br=1242&bt=621&cs=0&ds=6&ft=I3ElTAjqM9RSxRD0JN3JThFJYlmFbGQ1GbqgVchP8Z4ka&mime_type=video_mp4&qs=0&rc=MzwzZDQ2ZjlkZGRnNGZmZUBpamdxcXM5cnE2MzMzODczNEAzX142YS9jXzAxXzUvMTFeYSNhZDBgMmRzYWNhLS1kMTFzcw%3D%3D&vvpl=1&l=202506120425367F2C38B490578068ADDC&btag=e000b8000",
+            "data_size": 1640995,
+            "quality": "no_watermark",
+            "extension": "mp4",
+            "type": "video"
+          },
+          {
+            "url": "https://v58.tiktokcdn.com/video/tos/alisg/tos-alisg-v-27dcd7/oodCMYlBb4gAuI4ixDOaQUACCGlUBsi9PhIbg/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=124&bt=62&ft=.NpOcInz7Thl18qKXq8Zmo&mime_type=audio_mpeg&qs=3&rc=M2hlOTw0MzY0O2dpZGc8aEBpM3IzZnc5cnVqMzMzODU8NEBhLTQzMWI1NTYxM2JiL2I0YSM1cWBrMmQ0ZGFhLS1kMS1zcw%3D%3D&vvpl=1&l=202506120425367F2C38B490578068ADDC&VExpiration=1750307177&VSignature=R0Bd3Pbv-VMJrxCwZo8kYQ&btag=e000b8000&cc=14&shp=d05b14bd&shcp=-",
+            "duration": 20,
+            "quality": "audio",
+            "extension": "mp3",
+            "type": "audio"
+          }
+        ]
+      },
+      "cover": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocNKVgfeB4jALMAlgtKsN31GAI0igeGxl3efg0~tplv-tiktokx-cropcenter:300:400.jpeg?dr=14579&refresh_token=13fad46a&x-expires=1749787200&x-signature=%2BOcd6V5JigDUgLr2IcnU9m3%2Fhp4%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=maliva&s=PUBLISH",
+      "duration": 20,
+      "play_count": 188400,
+      "digg_count": 22394,
+      "comment_count": 78,
+      "share_count": 3914,
+      "create_time": 1746810666
+    }
+  ],
+  "videos_fetched": 20,
+  "hasMore": true,
+  "nextCursor": 20,
+  "search_param": "@wife.meoz",
+  "cache_key": "test",
+  "timestamp": 1749702322655,
+  "last_updated": "11:25:22, 12/6/2025"
+}

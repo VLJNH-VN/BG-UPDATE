@@ -1,0 +1,10 @@
+
+{
+    "hiddenRoutes": [
+        "/admin/dashboard",
+        "/internal/debug",
+        "/private/test"
+    ],
+    "description": "Danh sách các routes sẽ bị ẩn khỏi trang chủ API",
+    "lastUpdated": "2024-01-01T00:00:00.000Z"
+}

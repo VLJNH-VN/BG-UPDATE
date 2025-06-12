@@ -1,0 +1,12 @@
+{	
+	"limit": {
+		"time": 1000,
+		"request-limit": 50
+	},
+	"ADMIN": [""],
+	"port": 5000,
+	"telegram": {
+		"bot_token": "7718324183:AAGmp2Sn8BVtPalHr65L-VToNKsm8w2p41A",
+		"admin_ids": [5930542560]
+	}
+}

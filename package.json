@@ -1,0 +1,37 @@
+{
+  "name": "VLjnh-API",
+  "version": "3.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "D-Jukie && VLjnh",
+  "description": "API bình thường thôi!",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "chalkercli": "^1.6.4",
+    "chokidar": "^4.0.3",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.15.4",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "helmet": "^8.0.0",
+    "ipware": "^2.0.0",
+    "jimp": "^0.16.1",
+    "moment-timezone": "^0.5.34",
+    "node-telegram-bot-api": "^0.66.0",
+    "request": "^2.88.2",
+    "string-similarity": "^4.0.4",
+    "totp-generator": "^0.0.14"
+  },
+  "devDependencies": {
+    "node": "^16.1.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
