@@ -591,7 +591,7 @@ app.get('/', function (request, response) {
                         </div>
                     </div>
                     <div class="bot-buttons">
-                        <a href="https://t.me/bgapikey_bot" class="bot-button" target="_blank">
+                        <a href="https://t.me/BGLOM_bot" class="bot-button" target="_blank">
                             <i class="fab fa-telegram"></i> Lấy API Key Miễn Phí
                         </a>
                         <div class="bot-commands">
